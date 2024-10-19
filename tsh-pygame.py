@@ -39,8 +39,8 @@ while running:
 
     if character_x_pos < 0:
         character_x_pos = 0
-    elif character_to_x > 2500:
-        character_to_x = 2500
+    if character_x_pos > 1000:
+        character_x_pos = 1000
 
     screen.blit(background, (0, 0))
     screen.blit(character, (character_x_pos, character_y_pos))
