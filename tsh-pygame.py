@@ -27,9 +27,9 @@ while running:
     
         if event.type == pygame.KEYDOWN:
             if event.key == pygame.K_LEFT:
-                character_to_x -= 1
+                character_to_x -= 0.8
             elif event.key == pygame.K_RIGHT:
-                character_to_x += 1
+                character_to_x += 0.8
         
         if event.type == pygame.KEYUP:
             if event.key == pygame.K_LEFT or event.key == pygame.K_RIGHT:
