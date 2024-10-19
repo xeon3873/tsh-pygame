@@ -1,1 +1,1 @@
-참고자료: https://velog.io/@yeah7598/%ED%8C%8C%EC%9D%B4%EC%8D%AC-pygame-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EA%B0%84%EB%8B%A8%ED%95%9C-%EA%B2%8C%EC%9E%84-%EB%A7%8C%EB%93%A4%EA%B8%B0
+참고자료: [[파이썬] pygame 라이브러리를 이용하여 간단한 게임 만들기(yeah7598)](https://velog.io/@yeah7598/%ED%8C%8C%EC%9D%B4%EC%8D%AC-pygame-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EA%B0%84%EB%8B%A8%ED%95%9C-%EA%B2%8C%EC%9E%84-%EB%A7%8C%EB%93%A4%EA%B8%B0)
